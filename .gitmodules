@@ -1,3 +1,6 @@
 [submodule "definition/definition/cookiecutter-data-science"]
 	path = definition/definition/cookiecutter-data-science
 	url = https://github.com/satishgc227/git-test.git
+[submodule "definition/cookiecutter-data-science"]
+	path = definition/cookiecutter-data-science
+	url = https://github.com/satishgc227/git-test.git
